@@ -1,0 +1,23 @@
+{
+  "name": "week9day2hw",
+  "version": "1.0.0",
+  "description": "Collaboration homework for General Assembly Bootcamp Week9 Day 2 https://git.generalassemb.ly/seir-5-26/student-resources/tree/master/3_front_end_frameworks/w09d02/morning_exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spk2dc/Week9Day2HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spk2dc/Week9Day2HW/issues"
+  },
+  "homepage": "https://github.com/spk2dc/Week9Day2HW#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
