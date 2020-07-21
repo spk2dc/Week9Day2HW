@@ -11,3 +11,8 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log('🎉🎊', 'celebrations happening on port', PORT, '🎉🎊')
 })
+
+//Get Route for users
+app.get("/users", (req, res) =>{
+    res.send("1. Senthil   2. Sasi");
+})
