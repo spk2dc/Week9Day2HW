@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/spk2dc/Week9Day2HW#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
